@@ -1,0 +1,11 @@
+html {
+    color: wheat;
+    background-color: rgb(36, 31, 31);
+}
+
+.task {
+    background-color: rgb(108, 101, 101);
+    width:fit-content;
+    height: flex;
+    margin: 2rem, 2rem;
+}

@@ -1,0 +1,97 @@
+
+header, div{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: beige;
+}
+
+
+article.col-md {
+    color: grey;
+    margin: 1rem 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+header {
+    text-align: center;
+    justify-content: center;
+}
+
+img {
+    border-radius: 5px;
+    width: 200px;
+    border: white 1px solid;
+}
+
+figcaption {
+    font-size: small;
+    color: grey;
+}
+
+p {
+    text-align: left;
+    color: grey;
+}
+
+footer {
+    background-color: rgb(83, 125, 41);
+    text-align: center;
+    align-items: bottom;
+}
+
+.banner {
+    background-color: rgb(83, 125, 41);
+    padding: 1rem;
+    margin: 0;
+    border-radius: 0.25rem;
+    text-align: center;
+    font-size: larger;
+    color: beige;
+}
+
+iframe {
+    margin-bottom: 2rem;
+}
+
+button {
+    background-color: rgb(91, 112, 60);
+    border-radius: 1rem;
+    margin: 1rem 0;
+    border: 0 none;
+    color: beige;
+}
+
+input {
+    border: 1px solid grey;
+    border-radius: 1rem;
+}
+
+.contact {
+    color: beige;
+    background-color: rgb(83, 125, 41);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin: 1rem 0;
+}
+
+.contact-article {
+    justify-content: left;
+    text-align: left;
+    align-items: right;
+    color: cadetblue;
+}
+
+.media {
+    width: 75px;
+}
+
+.form {
+    margin-top: 1rem;
+    text-align: left;
+    justify-content: right;
+    align-items: right;
+}
